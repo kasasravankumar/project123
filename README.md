@@ -13,5 +13,4 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 First update
 Welcome to my world
 
-Second Update from git bash
-
+Second Update from git
